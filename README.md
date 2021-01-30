@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+*29 Jan 2021*
 
 ### Project Title
-Replace the Project Title
+**US Bikeshare Data Analysis**
 
 ### Description
-Describe what your project is about and what it does
+Comparing the Bikeshare system usage by people in users in New York City, Chicago, and Washington, DC. continuous analysis of this data helps the business owners in decision makings such as expanding the service in a particular area, increasing bikes to cater for increase usage during particular time, etc.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/ud120-projects/issues/72
+https://github.com/salimt/version-control
