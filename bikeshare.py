@@ -219,6 +219,7 @@ def main():
             raw_data = input('\nWould you like to see the 1st five raws? Yes, No \n')
             if raw_data.lower() != 'yes':
                 break
+            pd.set_option('display.max_columns',200)
             display_raw_data(df)
             break
 
