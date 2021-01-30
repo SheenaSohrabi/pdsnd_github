@@ -3,6 +3,7 @@
 #https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/03_subset_data.html
 #https://www.tutorialspoint.com/python/string_title.htm
 #https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+#https://github.com/mainkoon81/U000-project-Python-US-Bikeshare-Data/blob/master/README.md
 
 mport time
 import pandas as pd
