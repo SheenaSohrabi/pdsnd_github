@@ -13,3 +13,4 @@ bikeshare.py
 ### Credits
 https://github.com/udacity/ud120-projects/issues/72
 https://github.com/salimt/version-control
+https://wordpress.com/support/markdown-quick-reference/
